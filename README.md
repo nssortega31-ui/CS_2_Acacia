@@ -14,5 +14,5 @@ Asks the user for 2 points in a cartesian plane and calculates the distance betw
 4. Wait for the Final Answer.
 
 # Author
-Name: Ortega, Nathanielle Stephen S.
+Name: Ortega, Nathanielle Stephen S. , 
 Section: Acacia
