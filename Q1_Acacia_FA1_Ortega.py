@@ -9,7 +9,7 @@ x2point = int(input("Please give point 2's x value"))
 y2point = int(input("Please give point 2's y value"))
 
 # Calculate the distance using sqrt() and pow().
-d = math.sqrt(math.pow(p2 - p1, 2) + math.pow(q2 - q1, 2))
+distance = math.sqrt(math.pow(x2point - x1point, 2) + math.pow(y2point - y1point, 2))
 
 # Output or give the Answer
-print("The distance between P1 and P2 is", d).
+print("The distance between Point 1 and Point 2 is", distance).
