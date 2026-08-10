@@ -15,3 +15,4 @@ Asks the user for 2 points in a cartesian plane and calculates the distance betw
 
 # Author
 Name: Ortega, Nathanielle Stephen S.
+Section: Acacia
