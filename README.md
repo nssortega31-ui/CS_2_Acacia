@@ -2,10 +2,10 @@
 All about CS 2 in Acacia
 
 # Project Title
-Distance Calculator Between Two Points
+Distance Calculator Between Two Points on the  Cartesian Plane
 
 ## Description
-Asks the user for 2 points in a cartesian plane and calculates the distance between the two points.
+Asks the user for 2 points in a Cartesian plane and calculates the distance between the two points.
 
 ## How to Run
 1. Open the program.
@@ -14,10 +14,20 @@ Asks the user for 2 points in a cartesian plane and calculates the distance betw
 4. Wait for the Final Answer.
 
 # Input needed
+-Input x value and y value of the first point 
+-Input x and y values of the second point
 
 # Sample Input
+Enter x1: 2
+Enter y1: 3
+Enter x2: 7
+Enter y2: 8
+
+The distance between the two points is: 7.07
+
 # Author
-Name: Ortega, Nathanielle Stephen S. , 
+Name: Ortega, Nathanielle Stephen S. 
+
 Section: Acacia
 
 ##  Exit Ticket 🎫
@@ -29,12 +39,12 @@ Your answer: Comments Are useful because they help explain the code and how it w
 
 2. Why is a README.md file important?
 
-Your answer: To gain information on What the project is, How to run 
+Your answer: To gain information on What the project is, How to properly run and who created it. 
 
 3. Give one way to make code more readable.
 
-Your answer: ______________________________
+Your answer: By adding comments explaining how it works and what it does so when finding a mistake it will be easy
 
 4. What commit message would you use for this project, and why?
 
-Your answer: ______________________________
+Your answer: Improved the calculator with comments and proper README file for instructions
