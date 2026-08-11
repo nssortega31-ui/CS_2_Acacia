@@ -10,7 +10,7 @@ Asks the user for 2 points in a Cartesian plane and calculates the distance betw
 ## How to Run
 1. Open the program.
 2. Run the Program in a IDE that supports Python. (ex. Visual Studio Code)
-3. Enter the coordinates in the two points.
+3. Enter the coordinates of the two points.
 4. Wait for the Final Answer.
 
 # Input needed
