@@ -17,7 +17,7 @@ Asks the user for 2 points in a Cartesian plane and calculates the distance betw
 -Input x value and y value of the first point 
 -Input x and y values of the second point
 
-# Sample Input
+# Sample Output
 Enter x1: 2
 
 Enter y1: 3
