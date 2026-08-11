@@ -12,4 +12,4 @@ y2point = int(input("Please give point 2's y value"))
 distance = math.sqrt(math.pow(x2point - x1point, 2) + math.pow(y2point - y1point, 2))
 
 # Output or give the Answer
-print("The distance between Point 1 and Point 2 is", distance).
+print("The distance between Point 1 and Point 2 is", distance)
