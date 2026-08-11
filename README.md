@@ -38,15 +38,15 @@ Answer briefly.
 
 1. What makes a comment useful?
 
-Your answer: Comments Are useful because they help explain the code and how it works.
+Your answer: Comments Are useful because they help explain the code and make it clean or easy to understand.
 
 2. Why is a README.md file important?
 
-Your answer: To gain information on What the project is, How to properly run and who created it. 
+Your answer: To gain information on What the project is, How to properly run, what is needed to run and and who created it. 
 
 3. Give one way to make code more readable.
 
-Your answer: By adding comments explaining how it works and what it does so when finding a mistake it will be easy
+Your answer: By properly spacing the code and labelling variables properly. Adding comments can also help.
 
 4. What commit message would you use for this project, and why?
 
